@@ -15,4 +15,4 @@ Pini = flip(toposort(digraph(coef0)));
 %% interventional data
 X_intv = readtable('full_intv_data.txt'); X_intv = table2array(X_intv);
 X_ind = readtable('full_intv_data_ind.txt'); X_ind = table2array(X_ind);
-[gamma3, lambda3, B3, topo_sort3] = sa_wrapper(X_intv, 'X_ind', X_ind, 'Pini', Pini)?
+[gamma3, lambda3, B3, topo_sort3] = sa_wrapper(X_intv, 'X_ind', X_ind, 'Pini', Pini)
