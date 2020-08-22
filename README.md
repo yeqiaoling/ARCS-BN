@@ -10,7 +10,9 @@ Clone the package.
 $ git clone https://github.com/yeqiaoling/arcs_bn.git
 ```
 
-Run the "test.m" file in the directory "/arcs_bn/test" for an example. 
+Run the **test.m** file in the directory **/arcs_bn/test** for an example. 
 
-## Paper
-[Optimizing regularized Cholesky score for order-based learning of Bayesian networks. Qiaoling Ye, Arash A. Amini, and Qing Zhou. 2019.](https://arxiv.org/abs/1904.12360)
+## Publication
+[Optimizing regularized Cholesky score for order-based learning of Bayesian networks. Qiaoling Ye, Arash A. Amini, and Qing Zhou. IEEE-TPAMI. 2020.](https://www.computer.org/csdl/journal/tp/5555/01/09079582/1jmV9bJGu6Q)
+
+Or access the paper from [arXiv](https://arxiv.org/abs/1904.12360).
