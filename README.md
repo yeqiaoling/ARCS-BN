@@ -7,7 +7,7 @@ Download and install [MATLAB](https://www.mathworks.com/downloads/).
 ## Running the tests
 Clone the package.
 ```
-$ git clone https://github.com/yeqiaoling/ARCS_BN.git
+$ git clone https://github.com/yeqiaoling/ARCS-BN.git
 ```
 
 Run the **test.m** file in the directory **/arcs_bn/test** for an example. 
