@@ -1,9 +1,6 @@
 # ARCS: An order-based BN learning method
 We implement Annealing Regularized Cholesky Score (ARCS) algorithm to search over topological sorts for a high-scoring Bayesian network. Our scoring function is derived from regularizing Gaussian DAG likelihood. We combine global simulated annealing over permutations with a fast proximal gradient algorithm, operating on triangular matrices of edge coefficients, to compute our scoring function. 
 
-![alt text](https://github.com/yeqiaoling/ARCS-BN/blob/master/Poster-SoCal.pdf?raw=true)
-
-
 ## Getting Started
 Download and install [MATLAB](https://www.mathworks.com/downloads/).
 
